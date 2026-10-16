@@ -1,0 +1,1627 @@
+params:
+  split: smallest_train
+  test_num: 100
+  test_pct: 0.99
+  train_num: 1
+  train_pct: 0.01
+  val_num: 0
+  val_pct: 0
+test_set:
+- config:
+    complexity_score: 0.5111111111111111
+    max_weight: 38
+    num_nodes: 56
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5111111111111111
+  features:
+    max_weight: 0.3111111111111111
+    num_nodes: 0.5111111111111111
+  id: 13
+  score: 0.5111111111111111
+  best_known_cut: 17078.0
+- config:
+    complexity_score: 0.5222222222222223
+    max_weight: 97
+    num_nodes: 57
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5222222222222223
+  features:
+    max_weight: 0.9666666666666667
+    num_nodes: 0.5222222222222223
+  id: 61
+  score: 0.5222222222222223
+  best_known_cut: 44323.0
+- config:
+    complexity_score: 0.5222222222222223
+    max_weight: 43
+    num_nodes: 57
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5222222222222223
+  features:
+    max_weight: 0.36666666666666664
+    num_nodes: 0.5222222222222223
+  id: 85
+  score: 0.5222222222222223
+  best_known_cut: 19935.0
+- config:
+    complexity_score: 0.5
+    max_weight: 16
+    num_nodes: 55
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5
+  features:
+    max_weight: 0.06666666666666667
+    num_nodes: 0.5
+  id: 12
+  score: 0.5
+  best_known_cut: 7154.0
+- config:
+    complexity_score: 0.4888888888888889
+    max_weight: 26
+    num_nodes: 54
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4888888888888889
+  features:
+    max_weight: 0.17777777777777778
+    num_nodes: 0.4888888888888889
+  id: 4
+  score: 0.4888888888888889
+  best_known_cut: 10726.0
+- config:
+    complexity_score: 0.5666666666666667
+    max_weight: 69
+    num_nodes: 61
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5666666666666667
+  features:
+    max_weight: 0.6555555555555556
+    num_nodes: 0.5666666666666667
+  id: 30
+  score: 0.5666666666666667
+  best_known_cut: 35695.0
+- config:
+    complexity_score: 0.5666666666666667
+    max_weight: 54
+    num_nodes: 61
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5666666666666667
+  features:
+    max_weight: 0.4888888888888889
+    num_nodes: 0.5666666666666667
+  id: 49
+  score: 0.5666666666666667
+  best_known_cut: 28230.0
+- config:
+    complexity_score: 0.4777777777777778
+    max_weight: 39
+    num_nodes: 53
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4777777777777778
+  features:
+    max_weight: 0.32222222222222224
+    num_nodes: 0.4777777777777778
+  id: 34
+  score: 0.4777777777777778
+  best_known_cut: 15353.0
+- config:
+    complexity_score: 0.4777777777777778
+    max_weight: 32
+    num_nodes: 53
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4777777777777778
+  features:
+    max_weight: 0.24444444444444444
+    num_nodes: 0.4777777777777778
+  id: 71
+  score: 0.4777777777777778
+  best_known_cut: 13056.0
+- config:
+    complexity_score: 0.4666666666666667
+    max_weight: 98
+    num_nodes: 52
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4666666666666667
+  features:
+    max_weight: 0.9777777777777777
+    num_nodes: 0.4666666666666667
+  id: 40
+  score: 0.4666666666666667
+  best_known_cut: 37690.0
+- config:
+    complexity_score: 0.5888888888888889
+    max_weight: 46
+    num_nodes: 63
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5888888888888889
+  features:
+    max_weight: 0.4
+    num_nodes: 0.5888888888888889
+  id: 70
+  score: 0.5888888888888889
+  best_known_cut: 25156.0
+- config:
+    complexity_score: 0.5888888888888889
+    max_weight: 30
+    num_nodes: 63
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5888888888888889
+  features:
+    max_weight: 0.2222222222222222
+    num_nodes: 0.5888888888888889
+  id: 98
+  score: 0.5888888888888889
+  best_known_cut: 16677.0
+- config:
+    complexity_score: 0.45555555555555555
+    max_weight: 43
+    num_nodes: 51
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.45555555555555555
+  features:
+    max_weight: 0.36666666666666664
+    num_nodes: 0.45555555555555555
+  id: 20
+  score: 0.45555555555555555
+  best_known_cut: 15607.0
+- config:
+    complexity_score: 0.45555555555555555
+    max_weight: 97
+    num_nodes: 51
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.45555555555555555
+  features:
+    max_weight: 0.9666666666666667
+    num_nodes: 0.45555555555555555
+  id: 38
+  score: 0.45555555555555555
+  best_known_cut: 34804.0
+- config:
+    complexity_score: 0.45555555555555555
+    max_weight: 31
+    num_nodes: 51
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.45555555555555555
+  features:
+    max_weight: 0.23333333333333334
+    num_nodes: 0.45555555555555555
+  id: 50
+  score: 0.45555555555555555
+  best_known_cut: 11476.0
+- config:
+    complexity_score: 0.45555555555555555
+    max_weight: 76
+    num_nodes: 51
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.45555555555555555
+  features:
+    max_weight: 0.7333333333333333
+    num_nodes: 0.45555555555555555
+  id: 86
+  score: 0.45555555555555555
+  best_known_cut: 27997.0
+- config:
+    complexity_score: 0.4444444444444444
+    max_weight: 90
+    num_nodes: 50
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4444444444444444
+  features:
+    max_weight: 0.8888888888888888
+    num_nodes: 0.4444444444444444
+  id: 1
+  score: 0.4444444444444444
+  best_known_cut: 32204.0
+- config:
+    complexity_score: 0.4444444444444444
+    max_weight: 45
+    num_nodes: 50
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4444444444444444
+  features:
+    max_weight: 0.3888888888888889
+    num_nodes: 0.4444444444444444
+  id: 14
+  score: 0.4444444444444444
+  best_known_cut: 15977.0
+- config:
+    complexity_score: 0.6111111111111112
+    max_weight: 18
+    num_nodes: 65
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6111111111111112
+  features:
+    max_weight: 0.08888888888888889
+    num_nodes: 0.6111111111111112
+  id: 91
+  score: 0.6111111111111112
+  best_known_cut: 11220.0
+- config:
+    complexity_score: 0.43333333333333335
+    max_weight: 82
+    num_nodes: 49
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.43333333333333335
+  features:
+    max_weight: 0.8
+    num_nodes: 0.43333333333333335
+  id: 58
+  score: 0.43333333333333335
+  best_known_cut: 27093.0
+- config:
+    complexity_score: 0.6222222222222222
+    max_weight: 94
+    num_nodes: 66
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6222222222222222
+  features:
+    max_weight: 0.9333333333333333
+    num_nodes: 0.6222222222222222
+  id: 36
+  score: 0.6222222222222222
+  best_known_cut: 57445.0
+- config:
+    complexity_score: 0.4222222222222222
+    max_weight: 72
+    num_nodes: 48
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4222222222222222
+  features:
+    max_weight: 0.6888888888888889
+    num_nodes: 0.4222222222222222
+  id: 75
+  score: 0.4222222222222222
+  best_known_cut: 22814.0
+- config:
+    complexity_score: 0.6333333333333333
+    max_weight: 73
+    num_nodes: 67
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6333333333333333
+  features:
+    max_weight: 0.7
+    num_nodes: 0.6333333333333333
+  id: 6
+  score: 0.6333333333333333
+  best_known_cut: 46258.0
+- config:
+    complexity_score: 0.6333333333333333
+    max_weight: 38
+    num_nodes: 67
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6333333333333333
+  features:
+    max_weight: 0.3111111111111111
+    num_nodes: 0.6333333333333333
+  id: 25
+  score: 0.6333333333333333
+  best_known_cut: 24110.0
+- config:
+    complexity_score: 0.4111111111111111
+    max_weight: 75
+    num_nodes: 47
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.4111111111111111
+  features:
+    max_weight: 0.7222222222222222
+    num_nodes: 0.4111111111111111
+  id: 33
+  score: 0.4111111111111111
+  best_known_cut: 23415.0
+- config:
+    complexity_score: 0.6444444444444445
+    max_weight: 59
+    num_nodes: 68
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6444444444444445
+  features:
+    max_weight: 0.5444444444444444
+    num_nodes: 0.6444444444444445
+  id: 52
+  score: 0.6444444444444445
+  best_known_cut: 38555.0
+- config:
+    complexity_score: 0.37777777777777777
+    max_weight: 40
+    num_nodes: 44
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.37777777777777777
+  features:
+    max_weight: 0.3333333333333333
+    num_nodes: 0.37777777777777777
+  id: 55
+  score: 0.37777777777777777
+  best_known_cut: 10946.0
+- config:
+    complexity_score: 0.37777777777777777
+    max_weight: 83
+    num_nodes: 44
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.37777777777777777
+  features:
+    max_weight: 0.8111111111111111
+    num_nodes: 0.37777777777777777
+  id: 56
+  score: 0.37777777777777777
+  best_known_cut: 22522.0
+- config:
+    complexity_score: 0.37777777777777777
+    max_weight: 83
+    num_nodes: 44
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.37777777777777777
+  features:
+    max_weight: 0.8111111111111111
+    num_nodes: 0.37777777777777777
+  id: 87
+  score: 0.37777777777777777
+  best_known_cut: 22642.0
+- config:
+    complexity_score: 0.6777777777777778
+    max_weight: 86
+    num_nodes: 71
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6777777777777778
+  features:
+    max_weight: 0.8444444444444444
+    num_nodes: 0.6777777777777778
+  id: 21
+  score: 0.6777777777777778
+  best_known_cut: 60947.0
+- config:
+    complexity_score: 0.6777777777777778
+    max_weight: 72
+    num_nodes: 71
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.6777777777777778
+  features:
+    max_weight: 0.6888888888888889
+    num_nodes: 0.6777777777777778
+  id: 28
+  score: 0.6777777777777778
+  best_known_cut: 51139.0
+- config:
+    complexity_score: 0.36666666666666664
+    max_weight: 29
+    num_nodes: 43
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.36666666666666664
+  features:
+    max_weight: 0.2111111111111111
+    num_nodes: 0.36666666666666664
+  id: 64
+  score: 0.36666666666666664
+  best_known_cut: 7621.0
+- config:
+    complexity_score: 0.35555555555555557
+    max_weight: 53
+    num_nodes: 42
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.35555555555555557
+  features:
+    max_weight: 0.4777777777777778
+    num_nodes: 0.35555555555555557
+  id: 32
+  score: 0.35555555555555557
+  best_known_cut: 13680.0
+- config:
+    complexity_score: 0.35555555555555557
+    max_weight: 80
+    num_nodes: 42
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.35555555555555557
+  features:
+    max_weight: 0.7777777777777778
+    num_nodes: 0.35555555555555557
+  id: 42
+  score: 0.35555555555555557
+  best_known_cut: 19748.0
+- config:
+    complexity_score: 0.35555555555555557
+    max_weight: 71
+    num_nodes: 42
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.35555555555555557
+  features:
+    max_weight: 0.6777777777777778
+    num_nodes: 0.35555555555555557
+  id: 96
+  score: 0.35555555555555557
+  best_known_cut: 18013.0
+- config:
+    complexity_score: 0.34444444444444444
+    max_weight: 14
+    num_nodes: 41
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.34444444444444444
+  features:
+    max_weight: 0.044444444444444446
+    num_nodes: 0.34444444444444444
+  id: 31
+  score: 0.34444444444444444
+  best_known_cut: 3512.0
+- config:
+    complexity_score: 0.34444444444444444
+    max_weight: 80
+    num_nodes: 41
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.34444444444444444
+  features:
+    max_weight: 0.7777777777777778
+    num_nodes: 0.34444444444444444
+  id: 53
+  score: 0.34444444444444444
+  best_known_cut: 18681.0
+- config:
+    complexity_score: 0.34444444444444444
+    max_weight: 26
+    num_nodes: 41
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.34444444444444444
+  features:
+    max_weight: 0.17777777777777778
+    num_nodes: 0.34444444444444444
+  id: 65
+  score: 0.34444444444444444
+  best_known_cut: 6382.0
+- config:
+    complexity_score: 0.7111111111111111
+    max_weight: 100
+    num_nodes: 74
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7111111111111111
+  features:
+    max_weight: 1.0
+    num_nodes: 0.7111111111111111
+  id: 59
+  score: 0.7111111111111111
+  best_known_cut: 75359.0
+- config:
+    complexity_score: 0.7222222222222222
+    max_weight: 98
+    num_nodes: 75
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7222222222222222
+  features:
+    max_weight: 0.9777777777777777
+    num_nodes: 0.7222222222222222
+  id: 29
+  score: 0.7222222222222222
+  best_known_cut: 76251.0
+- config:
+    complexity_score: 0.7333333333333333
+    max_weight: 41
+    num_nodes: 76
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7333333333333333
+  features:
+    max_weight: 0.34444444444444444
+    num_nodes: 0.7333333333333333
+  id: 69
+  score: 0.7333333333333333
+  best_known_cut: 33376.0
+- config:
+    complexity_score: 0.3111111111111111
+    max_weight: 86
+    num_nodes: 38
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.3111111111111111
+  features:
+    max_weight: 0.8444444444444444
+    num_nodes: 0.3111111111111111
+  id: 17
+  score: 0.3111111111111111
+  best_known_cut: 17545.0
+- config:
+    complexity_score: 0.7444444444444445
+    max_weight: 63
+    num_nodes: 77
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7444444444444445
+  features:
+    max_weight: 0.5888888888888889
+    num_nodes: 0.7444444444444445
+  id: 26
+  score: 0.7444444444444445
+  best_known_cut: 51584.0
+- config:
+    complexity_score: 0.7444444444444445
+    max_weight: 23
+    num_nodes: 77
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7444444444444445
+  features:
+    max_weight: 0.14444444444444443
+    num_nodes: 0.7444444444444445
+  id: 89
+  score: 0.7444444444444445
+  best_known_cut: 19636.0
+- config:
+    complexity_score: 0.3
+    max_weight: 12
+    num_nodes: 37
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.3
+  features:
+    max_weight: 0.022222222222222223
+    num_nodes: 0.3
+  id: 5
+  score: 0.3
+  best_known_cut: 2481.0
+- config:
+    complexity_score: 0.3
+    max_weight: 14
+    num_nodes: 37
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.3
+  features:
+    max_weight: 0.044444444444444446
+    num_nodes: 0.3
+  id: 83
+  score: 0.3
+  best_known_cut: 2852.0
+- config:
+    complexity_score: 0.7555555555555555
+    max_weight: 51
+    num_nodes: 78
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7555555555555555
+  features:
+    max_weight: 0.45555555555555555
+    num_nodes: 0.7555555555555555
+  id: 2
+  score: 0.7555555555555555
+  best_known_cut: 43209.0
+- config:
+    complexity_score: 0.7555555555555555
+    max_weight: 51
+    num_nodes: 78
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7555555555555555
+  features:
+    max_weight: 0.45555555555555555
+    num_nodes: 0.7555555555555555
+  id: 57
+  score: 0.7555555555555555
+  best_known_cut: 43658.0
+- config:
+    complexity_score: 0.7555555555555555
+    max_weight: 62
+    num_nodes: 78
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7555555555555555
+  features:
+    max_weight: 0.5777777777777777
+    num_nodes: 0.7555555555555555
+  id: 90
+  score: 0.7555555555555555
+  best_known_cut: 51981.0
+- config:
+    complexity_score: 0.28888888888888886
+    max_weight: 94
+    num_nodes: 36
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.28888888888888886
+  features:
+    max_weight: 0.9333333333333333
+    num_nodes: 0.28888888888888886
+  id: 46
+  score: 0.28888888888888886
+  best_known_cut: 17398.0
+- config:
+    complexity_score: 0.28888888888888886
+    max_weight: 75
+    num_nodes: 36
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.28888888888888886
+  features:
+    max_weight: 0.7222222222222222
+    num_nodes: 0.28888888888888886
+  id: 81
+  score: 0.28888888888888886
+  best_known_cut: 13904.0
+- config:
+    complexity_score: 0.7666666666666667
+    max_weight: 72
+    num_nodes: 79
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7666666666666667
+  features:
+    max_weight: 0.6888888888888889
+    num_nodes: 0.7666666666666667
+  id: 8
+  score: 0.7666666666666667
+  best_known_cut: 61559.0
+- config:
+    complexity_score: 0.7666666666666667
+    max_weight: 92
+    num_nodes: 79
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7666666666666667
+  features:
+    max_weight: 0.9111111111111111
+    num_nodes: 0.7666666666666667
+  id: 24
+  score: 0.7666666666666667
+  best_known_cut: 79789.0
+- config:
+    complexity_score: 0.2777777777777778
+    max_weight: 45
+    num_nodes: 35
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.2777777777777778
+  features:
+    max_weight: 0.3888888888888889
+    num_nodes: 0.2777777777777778
+  id: 45
+  score: 0.2777777777777778
+  best_known_cut: 7888.0
+- config:
+    complexity_score: 0.7777777777777778
+    max_weight: 69
+    num_nodes: 80
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7777777777777778
+  features:
+    max_weight: 0.6555555555555556
+    num_nodes: 0.7777777777777778
+  id: 79
+  score: 0.7777777777777778
+  best_known_cut: 60466.0
+- config:
+    complexity_score: 0.26666666666666666
+    max_weight: 77
+    num_nodes: 34
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.26666666666666666
+  features:
+    max_weight: 0.7444444444444445
+    num_nodes: 0.26666666666666666
+  id: 77
+  score: 0.26666666666666666
+  best_known_cut: 12935.0
+- config:
+    complexity_score: 0.26666666666666666
+    max_weight: 84
+    num_nodes: 34
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.26666666666666666
+  features:
+    max_weight: 0.8222222222222222
+    num_nodes: 0.26666666666666666
+  id: 100
+  score: 0.26666666666666666
+  best_known_cut: 13907.0
+- config:
+    complexity_score: 0.7888888888888889
+    max_weight: 32
+    num_nodes: 81
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.7888888888888889
+  features:
+    max_weight: 0.24444444444444444
+    num_nodes: 0.7888888888888889
+  id: 48
+  score: 0.7888888888888889
+  best_known_cut: 29056.0
+- config:
+    complexity_score: 0.8
+    max_weight: 84
+    num_nodes: 82
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8
+  features:
+    max_weight: 0.8222222222222222
+    num_nodes: 0.8
+  id: 37
+  score: 0.8
+  best_known_cut: 77727.0
+- config:
+    complexity_score: 0.8
+    max_weight: 14
+    num_nodes: 82
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8
+  features:
+    max_weight: 0.044444444444444446
+    num_nodes: 0.8
+  id: 97
+  score: 0.8
+  best_known_cut: 13586.0
+- config:
+    complexity_score: 0.24444444444444444
+    max_weight: 38
+    num_nodes: 32
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.24444444444444444
+  features:
+    max_weight: 0.3111111111111111
+    num_nodes: 0.24444444444444444
+  id: 54
+  score: 0.24444444444444444
+  best_known_cut: 5746.0
+- config:
+    complexity_score: 0.8111111111111111
+    max_weight: 32
+    num_nodes: 83
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8111111111111111
+  features:
+    max_weight: 0.24444444444444444
+    num_nodes: 0.8111111111111111
+  id: 7
+  score: 0.8111111111111111
+  best_known_cut: 31318.0
+- config:
+    complexity_score: 0.8111111111111111
+    max_weight: 48
+    num_nodes: 83
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8111111111111111
+  features:
+    max_weight: 0.4222222222222222
+    num_nodes: 0.8111111111111111
+  id: 39
+  score: 0.8111111111111111
+  best_known_cut: 45702.0
+- config:
+    complexity_score: 0.8111111111111111
+    max_weight: 96
+    num_nodes: 83
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8111111111111111
+  features:
+    max_weight: 0.9555555555555556
+    num_nodes: 0.8111111111111111
+  id: 94
+  score: 0.8111111111111111
+  best_known_cut: 90461.0
+- config:
+    complexity_score: 0.23333333333333334
+    max_weight: 28
+    num_nodes: 31
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.23333333333333334
+  features:
+    max_weight: 0.2
+    num_nodes: 0.23333333333333334
+  id: 92
+  score: 0.23333333333333334
+  best_known_cut: 3962.0
+- config:
+    complexity_score: 0.2222222222222222
+    max_weight: 39
+    num_nodes: 30
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.2222222222222222
+  features:
+    max_weight: 0.32222222222222224
+    num_nodes: 0.2222222222222222
+  id: 35
+  score: 0.2222222222222222
+  best_known_cut: 4982.0
+- config:
+    complexity_score: 0.2222222222222222
+    max_weight: 52
+    num_nodes: 30
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.2222222222222222
+  features:
+    max_weight: 0.4666666666666667
+    num_nodes: 0.2222222222222222
+  id: 67
+  score: 0.2222222222222222
+  best_known_cut: 6843.0
+- config:
+    complexity_score: 0.8333333333333334
+    max_weight: 17
+    num_nodes: 85
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8333333333333334
+  features:
+    max_weight: 0.07777777777777778
+    num_nodes: 0.8333333333333334
+  id: 44
+  score: 0.8333333333333334
+  best_known_cut: 17712.0
+- config:
+    complexity_score: 0.8444444444444444
+    max_weight: 10
+    num_nodes: 86
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8444444444444444
+  features:
+    max_weight: 0.0
+    num_nodes: 0.8444444444444444
+  id: 60
+  score: 0.8444444444444444
+  best_known_cut: 10906.0
+- config:
+    complexity_score: 0.8444444444444444
+    max_weight: 76
+    num_nodes: 86
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8444444444444444
+  features:
+    max_weight: 0.7333333333333333
+    num_nodes: 0.8444444444444444
+  id: 63
+  score: 0.8444444444444444
+  best_known_cut: 77125.0
+- config:
+    complexity_score: 0.8555555555555555
+    max_weight: 42
+    num_nodes: 87
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8555555555555555
+  features:
+    max_weight: 0.35555555555555557
+    num_nodes: 0.8555555555555555
+  id: 11
+  score: 0.8555555555555555
+  best_known_cut: 44333.0
+- config:
+    complexity_score: 0.8555555555555555
+    max_weight: 16
+    num_nodes: 87
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8555555555555555
+  features:
+    max_weight: 0.06666666666666667
+    num_nodes: 0.8555555555555555
+  id: 66
+  score: 0.8555555555555555
+  best_known_cut: 17560.0
+- config:
+    complexity_score: 0.18888888888888888
+    max_weight: 12
+    num_nodes: 27
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.18888888888888888
+  features:
+    max_weight: 0.022222222222222223
+    num_nodes: 0.18888888888888888
+  id: 84
+  score: 0.18888888888888888
+  best_known_cut: 1278.0
+- config:
+    complexity_score: 0.8666666666666667
+    max_weight: 48
+    num_nodes: 88
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8666666666666667
+  features:
+    max_weight: 0.4222222222222222
+    num_nodes: 0.8666666666666667
+  id: 18
+  score: 0.8666666666666667
+  best_known_cut: 51205.0
+- config:
+    complexity_score: 0.17777777777777778
+    max_weight: 75
+    num_nodes: 26
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.17777777777777778
+  features:
+    max_weight: 0.7222222222222222
+    num_nodes: 0.17777777777777778
+  id: 23
+  score: 0.17777777777777778
+  best_known_cut: 7371.0
+- config:
+    complexity_score: 0.17777777777777778
+    max_weight: 79
+    num_nodes: 26
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.17777777777777778
+  features:
+    max_weight: 0.7666666666666667
+    num_nodes: 0.17777777777777778
+  id: 82
+  score: 0.17777777777777778
+  best_known_cut: 8097.0
+- config:
+    complexity_score: 0.8777777777777778
+    max_weight: 65
+    num_nodes: 89
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8777777777777778
+  features:
+    max_weight: 0.6111111111111112
+    num_nodes: 0.8777777777777778
+  id: 72
+  score: 0.8777777777777778
+  best_known_cut: 71505.0
+- config:
+    complexity_score: 0.16666666666666666
+    max_weight: 49
+    num_nodes: 25
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.16666666666666666
+  features:
+    max_weight: 0.43333333333333335
+    num_nodes: 0.16666666666666666
+  id: 15
+  score: 0.16666666666666666
+  best_known_cut: 4633.0
+- config:
+    complexity_score: 0.8888888888888888
+    max_weight: 48
+    num_nodes: 90
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.8888888888888888
+  features:
+    max_weight: 0.4222222222222222
+    num_nodes: 0.8888888888888888
+  id: 22
+  score: 0.8888888888888888
+  best_known_cut: 54122.0
+- config:
+    complexity_score: 0.9
+    max_weight: 24
+    num_nodes: 91
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9
+  features:
+    max_weight: 0.15555555555555556
+    num_nodes: 0.9
+  id: 0
+  score: 0.9
+  best_known_cut: 27964.0
+- config:
+    complexity_score: 0.9222222222222223
+    max_weight: 72
+    num_nodes: 93
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9222222222222223
+  features:
+    max_weight: 0.6888888888888889
+    num_nodes: 0.9222222222222223
+  id: 62
+  score: 0.9222222222222223
+  best_known_cut: 85824.0
+- config:
+    complexity_score: 0.9222222222222223
+    max_weight: 86
+    num_nodes: 93
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9222222222222223
+  features:
+    max_weight: 0.8444444444444444
+    num_nodes: 0.9222222222222223
+  id: 80
+  score: 0.9222222222222223
+  best_known_cut: 102170.0
+- config:
+    complexity_score: 0.12222222222222222
+    max_weight: 45
+    num_nodes: 21
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.12222222222222222
+  features:
+    max_weight: 0.3888888888888889
+    num_nodes: 0.12222222222222222
+  id: 19
+  score: 0.12222222222222222
+  best_known_cut: 2732.0
+- config:
+    complexity_score: 0.12222222222222222
+    max_weight: 76
+    num_nodes: 21
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.12222222222222222
+  features:
+    max_weight: 0.7333333333333333
+    num_nodes: 0.12222222222222222
+  id: 27
+  score: 0.12222222222222222
+  best_known_cut: 4782.0
+- config:
+    complexity_score: 0.9333333333333333
+    max_weight: 49
+    num_nodes: 94
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9333333333333333
+  features:
+    max_weight: 0.43333333333333335
+    num_nodes: 0.9333333333333333
+  id: 10
+  score: 0.9333333333333333
+  best_known_cut: 60618.0
+- config:
+    complexity_score: 0.1111111111111111
+    max_weight: 94
+    num_nodes: 20
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.1111111111111111
+  features:
+    max_weight: 0.9333333333333333
+    num_nodes: 0.1111111111111111
+  id: 41
+  score: 0.1111111111111111
+  best_known_cut: 5802.0
+- config:
+    complexity_score: 0.1111111111111111
+    max_weight: 87
+    num_nodes: 20
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.1111111111111111
+  features:
+    max_weight: 0.8555555555555555
+    num_nodes: 0.1111111111111111
+  id: 95
+  score: 0.1111111111111111
+  best_known_cut: 5060.0
+- config:
+    complexity_score: 0.9444444444444444
+    max_weight: 87
+    num_nodes: 95
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9444444444444444
+  features:
+    max_weight: 0.8555555555555555
+    num_nodes: 0.9444444444444444
+  id: 76
+  score: 0.9444444444444444
+  best_known_cut: 107558.0
+- config:
+    complexity_score: 0.9777777777777777
+    max_weight: 67
+    num_nodes: 98
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9777777777777777
+  features:
+    max_weight: 0.6333333333333333
+    num_nodes: 0.9777777777777777
+  id: 43
+  score: 0.9777777777777777
+  best_known_cut: 89897.0
+- config:
+    complexity_score: 0.9777777777777777
+    max_weight: 85
+    num_nodes: 98
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9777777777777777
+  features:
+    max_weight: 0.8333333333333334
+    num_nodes: 0.9777777777777777
+  id: 68
+  score: 0.9777777777777777
+  best_known_cut: 111930.0
+- config:
+    complexity_score: 0.9777777777777777
+    max_weight: 73
+    num_nodes: 98
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9777777777777777
+  features:
+    max_weight: 0.7
+    num_nodes: 0.9777777777777777
+  id: 93
+  score: 0.9777777777777777
+  best_known_cut: 97583.0
+- config:
+    complexity_score: 0.06666666666666667
+    max_weight: 100
+    num_nodes: 16
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.06666666666666667
+  features:
+    max_weight: 1.0
+    num_nodes: 0.06666666666666667
+  id: 9
+  score: 0.06666666666666667
+  best_known_cut: 3575.0
+- config:
+    complexity_score: 0.06666666666666667
+    max_weight: 46
+    num_nodes: 16
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.06666666666666667
+  features:
+    max_weight: 0.4
+    num_nodes: 0.06666666666666667
+  id: 88
+  score: 0.06666666666666667
+  best_known_cut: 1791.0
+- config:
+    complexity_score: 0.9888888888888889
+    max_weight: 58
+    num_nodes: 99
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 0.9888888888888889
+  features:
+    max_weight: 0.5333333333333333
+    num_nodes: 0.9888888888888889
+  id: 47
+  score: 0.9888888888888889
+  best_known_cut: 77920.0
+- config:
+    complexity_score: 0.05555555555555555
+    max_weight: 79
+    num_nodes: 15
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.05555555555555555
+  features:
+    max_weight: 0.7666666666666667
+    num_nodes: 0.05555555555555555
+  id: 51
+  score: 0.05555555555555555
+  best_known_cut: 2672.0
+- config:
+    complexity_score: 0.05555555555555555
+    max_weight: 96
+    num_nodes: 15
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.05555555555555555
+  features:
+    max_weight: 0.9555555555555556
+    num_nodes: 0.05555555555555555
+  id: 73
+  score: 0.05555555555555555
+  best_known_cut: 3295.0
+- config:
+    complexity_score: 1.0
+    max_weight: 78
+    num_nodes: 100
+  extremeness: 1.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: true
+      normalized: 1.0
+  features:
+    max_weight: 0.7555555555555555
+    num_nodes: 1.0
+  id: 16
+  score: 1.0
+  best_known_cut: 106157.0
+- config:
+    complexity_score: 0.044444444444444446
+    max_weight: 52
+    num_nodes: 14
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.044444444444444446
+  features:
+    max_weight: 0.4666666666666667
+    num_nodes: 0.044444444444444446
+  id: 3
+  score: 0.044444444444444446
+  best_known_cut: 1592.0
+- config:
+    complexity_score: 0.022222222222222223
+    max_weight: 77
+    num_nodes: 12
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.022222222222222223
+  features:
+    max_weight: 0.7444444444444445
+    num_nodes: 0.022222222222222223
+  id: 74
+  score: 0.022222222222222223
+  best_known_cut: 1512.0
+- config:
+    complexity_score: 0.022222222222222223
+    max_weight: 31
+    num_nodes: 12
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.022222222222222223
+  features:
+    max_weight: 0.23333333333333334
+    num_nodes: 0.022222222222222223
+  id: 99
+  score: 0.022222222222222223
+  best_known_cut: 724.0
+training_set:
+- config:
+    complexity_score: 0.5111111111111111
+    max_weight: 89
+    num_nodes: 56
+  extremeness: 0.0
+  feature_info:
+    num_nodes:
+      direction: max
+      extreme: false
+      normalized: 0.5111111111111111
+  features:
+    max_weight: 0.8777777777777778
+    num_nodes: 0.5111111111111111
+  id: 78
+  score: 0.5111111111111111
+  best_known_cut: 39111.0
+validation_set: []
