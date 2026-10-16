@@ -114,6 +114,7 @@ Use `--search grid` to evaluate every combination in `SEARCH_SPACE`;  this can b
 | `--reads` | `sa`, dataset hyperparameter optimization | `2000` | Number of Simulated Annealing reads. |
 | `--search` | `hyperopt` | `random` | Search strategy: `random` or `grid`. |
 | `--trials` | `hyperopt` | `20` | Number of random-search trials; ignored for grid search. |
+
 For multiple generated graphs, node count and degree are sampled from valid combinations in the requested ranges.
 
 ## Dataset format
